@@ -1,7 +1,7 @@
 package com.university.app.service;
 
 import com.university.app.domain.Student;
-import com.university.app.enums.SwapLettersResult;
+import com.university.app.domain.enums.SwapLettersResult;
 
 import java.util.List;
 

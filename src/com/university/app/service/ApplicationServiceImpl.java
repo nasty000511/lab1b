@@ -1,6 +1,6 @@
 package com.university.app.service;
 
-import com.university.app.enums.SwapLettersResult;
+import com.university.app.domain.enums.SwapLettersResult;
 import com.university.app.helpers.StudentNameValidator;
 import com.university.app.repository.StudentRepository;
 import com.university.app.domain.Student;
